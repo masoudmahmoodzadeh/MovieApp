@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MovieApp</string>
+
+    <string name="chip_all">All</string>
+    <string name="chip_drama">Drama</string>
+    <string name="chip_crime">Crime</string>
+    <string name="chip_sci_fi">Sci-Fi</string>
+    <string name="chip_action">Action</string>
+    <string name="chip_comedy">Comedy</string>
+    <string name="chip_romance">Romance</string>
+    <string name="chip_fantasy">Fantasy</string>
+
 </resources>

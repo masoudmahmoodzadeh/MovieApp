@@ -13,4 +13,9 @@ Example project of IMDb App, developed with Kotlin
 
 ![Glide](/screenshots/badge_glide.jpg)
 
+## ScreenShots
+![ScreenShot1](/screenshots/screenshot-1.png)
+
+![ScreenShot2](/screenshots/screenshot-2.png)
+
 

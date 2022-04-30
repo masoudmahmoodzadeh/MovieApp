@@ -1,19 +1,16 @@
 # MovieApp
 
-Example project of IMDb App, developed with Kotlin
+Example project of IMDB app, developed with kotlin
 
 ## Technologies
-![ViewModel](/screenshots/badge_viewmodel.jpg)
+- ViewModel
+- Coroutines
+- Dagger Hilt
+- Retrofit
+- Glide
 
-![Coroutines](/screenshots/badge_coroutines.jpg)
+## Screenshots
 
-![DaggerHilt](/screenshots/badge_dagger_hilt.jpg)
-
-![Retrofit](/screenshots/badge_retrofit.jpg)
-
-![Glide](/screenshots/badge_glide.jpg)
-
-## ScreenShots
 ![ScreenShot1](/screenshots/screenshot-1.png)
 
 ![ScreenShot2](/screenshots/screenshot-2.png)

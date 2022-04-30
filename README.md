@@ -15,12 +15,3 @@ Example project of IMDB app, developed with kotlin
 
 ![ScreenShot2](/screenshots/screenshot-2.png)
 
-~~~ java
-
-public class Test{
-       
-    public void run(){
-    }
-}
-~~~
-
